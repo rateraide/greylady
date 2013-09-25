@@ -1,0 +1,2 @@
+#!/bin/sh
+cfx run -p "~/Library/Application Support/Firefox/Profiles/7jlqsv66.test666" --static-args="{ \"debug\": true, \"debugPath\":\"/Users/Francisco/Developer/Firefox/RaterAide/source/scripts\" }"
